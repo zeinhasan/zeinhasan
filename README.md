@@ -1,6 +1,6 @@
 # Hi there, I'm Zein 👋
 ### and here is my stats
-<p align="center"><img src="https://www.codewars.com/users/zeinhasan/badges/large"/><br /><br />
+<br />
   <img src="https://github-readme-stats.vercel.app/api?username=zeinhasan&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeinhasan&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeinhasan&layout=compact&theme=monokai&langs_count=12"/><br />
