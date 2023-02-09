@@ -73,7 +73,7 @@
    - Teach material needed by other colleagues in dealing with data analysis problems
    - Teaching statistics to the public who need statistical knowledge 
   
-#### 3 [Training Olah Data Universitas Gadjah Mada](https://himasta.ugm.ac.id/) | Chairman of Committee   | Yogyakarta `April 2021 - December 2022
+#### 3 [Training Olah Data Universitas Gadjah Mada](https://himasta.ugm.ac.id/) | Chairman of Committee   | Yogyakarta `April 2021 – December 2022`
    - Formed a committee, elected the Head of each division, and ratified it
    - Designed activity plans, activity objectives, target participants, and details with other divisions
    - Managed the course of every activity, meeting and coordinate the entire committee
