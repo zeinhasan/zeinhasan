@@ -4,7 +4,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zeinhasan&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeinhasan&theme=monokai"/><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeinhasan&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
 ## About me:
