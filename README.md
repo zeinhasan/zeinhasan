@@ -21,7 +21,7 @@
    - Assistant Lecturer of Introduction to Mathematical Statistics 1 
    - Laboratory Assistant of Data Exploration and Visualization 
    - Assistant Lecturer of Official Statistics
- #### 2. [SMA N 1 Semarang]([https://www.sman1kebumen.sch.id](https://sman1-smg.sch.id/)) | MIPA | Semarang `2016-2019`
+ #### 2. [SMA N 1 Semarang](https://sman1-smg.sch.id/) | MIPA | Semarang `2016-2019`
 
 ## Professional Activities:
 #### 1. [Statistics Major, Department of Mathematics, Universitas Gadjah Mada](https://s1stat.fmipa.ugm.ac.id/id/) | Laboratory Assistant of Statistical Computation | Yogyakarta `August 2022 - December 2022`
