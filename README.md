@@ -1,5 +1,5 @@
 # Hi there, I'm Zein 👋
-### and here is my stats
+### My Stats 📈
 <p align="center"><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=zeinhasan&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <br />
@@ -81,6 +81,7 @@
  
 ### Languages and Tools:
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>
 <img align="left" alt="R" width="30px" src="https://www.r-project.org/Rlogo.png" style="padding-right:0px;" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pycharm" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/220px-PyCharm_Icon.svg.png" style="padding-right:10px;" />
