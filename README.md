@@ -21,6 +21,9 @@
    - Assistant Lecturer of Introduction to Mathematical Statistics 1 
    - Laboratory Assistant of Data Exploration and Visualization 
    - Assistant Lecturer of Official Statistics
+ 
+ #### 3. [Bangkit Cohort 2024](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) | Machine Learning | Indonesia `2023`
+ 
  #### 2. [SMA N 1 Semarang](https://sman1-smg.sch.id/) | MIPA | Semarang `2016-2019`
 
 ## Professional Activities:
