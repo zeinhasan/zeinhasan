@@ -22,9 +22,9 @@
    - Laboratory Assistant of Data Exploration and Visualization 
    - Assistant Lecturer of Official Statistics
  
- #### 3. [Bangkit Cohort 2023](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) | Machine Learning | Indonesia `2023`
+ #### 2. [Bangkit Cohort 2023](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) | Machine Learning | Indonesia `2023`
  
- #### 2. [SMA N 1 Semarang](https://sman1-smg.sch.id/) | MIPA | Semarang `2016-2019`
+ #### 3. [SMA N 1 Semarang](https://sman1-smg.sch.id/) | MIPA | Semarang `2016-2019`
 
 ## Professional Activities:
 #### 1. [Statistics Major, Department of Mathematics, Universitas Gadjah Mada](https://s1stat.fmipa.ugm.ac.id/id/) | Laboratory Assistant of Statistical Computation | Yogyakarta `August 2022 - December 2022`
