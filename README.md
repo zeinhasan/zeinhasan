@@ -1,7 +1,6 @@
 # Hi there, I'm Zein 👋
 ### My Stats 📈
-<p align="center"><br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=zeinhasan&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
+<p align="center">
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeinhasan&theme=monokai"/><br /><br />
 </p>
