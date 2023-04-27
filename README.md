@@ -36,7 +36,7 @@
    - Graded the assignments given to students in Mathematical Statistics 1 courses.
    - Provided a final report on the results of the assessment assigned to students.
    - Prepared answers and explanations of student assignment
-   - Requirement Skill: Official Statistics
+   - Requirement Skill: Statistics, Mathematics
    
 #### 3. [Statistics Major, Department of Mathematics, Universitas Gadjah Mada](https://s1stat.fmipa.ugm.ac.id/id/) | Laboratory Assistant of Data Exploration and Visualization | Yogyakarta `February 2022 - July 2022`
    - Taught, the basics of R for application in statistics, especially in data exploration and visualization
