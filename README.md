@@ -46,14 +46,14 @@
    - Specifically taught about: Introduction to Python, Data Manipulation with Pandas, Join Data, Exploration and Visualization Data with Python, Scrapping Data from Web and API, Supervised Learning and Unsupervised Learning, Introduction to Deep Learning.
    - Requirement Skill: Statistics, Mathematics, Python Programming Language (Intermediate – Advance), Machine Learning.
    
-#### 3. [Statistics Major, Department of Mathematics, Universitas Gadjah Mada](https://s1stat.fmipa.ugm.ac.id/id/) | Assistant Lecturer of Introduction to Data Mining| Yogyakarta `February 2023 - Present`
+#### 3. [Statistics Major, Department of Mathematics, Universitas Gadjah Mada](https://s1stat.fmipa.ugm.ac.id/id/) | Assistant Lecturer of Introduction to Data Mining | Yogyakarta `February 2023 - Present`
    - Graded the assignments given to students in Introduction to Data Mining courses
    - Prepared answers and explanations of student assignment
    - Provided a final report on the results of the assessment assigned to students.
    - Taught, the basics of Python for application in statistics, especially in data mining and machine learning.
    - Requirement Skill: Statistics, Mathematics, Python, Machine Learning.
 
-#### 4. [Statistics Major, Department of Mathematics, Universitas Gadjah Mada](https://s1stat.fmipa.ugm.ac.id/id/) | Laboratory Assistant of Statistical Computation | Yogyakarta `August 2022 - January 2023`
+#### 4. [Statistics Major, Department of Mathematics, Universitas Gadjah Mada](https://s1stat.fmipa.ugm.ac.id/id/) | Laboratory Assistant of Statistical Computation 1 | Yogyakarta `August 2022 - January 2023`
    - Generally taught about basic of R for application in statistics, especially in data analysis.
    - Organized exams, practice questions, midterm exam reports and final exam reports, and evaluated the results of the work.
    - Specifically taught about: Introduction to R, Data Manipulation with Tidyverse, Distribution Transformation of Random Variables, Monte Carlo Simulation, and Linear Programming.
