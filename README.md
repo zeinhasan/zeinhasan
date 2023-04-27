@@ -22,30 +22,57 @@
    - Laboratory Assistant of Data Exploration and Visualization 
    - Assistant Lecturer of Official Statistics
  
- #### 2. [Bangkit Cohort 2023](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) | Machine Learning | Indonesia `2023`
- 
+ #### 2. [Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka](https://grow.google/intl/id_id/bangkit/?tab=machine-learning) | Machine Learning Cohort - Bangkit Cohort 2023 | Indonesia `February 2023 – Present`
+ ##### Specialization: 
+   - Supervised, Unsupervised, Recommender System and Reinforcement Learning
+   - Convolutional Neural Networks in TensorFlow 
+   - Natural Language Processing in TensorFlow 
+   - Sequences, Time Series and Prediction in TensorFlow
+   - Model Deployment in Device and Browser with TensorFlow
  #### 3. [SMA N 1 Semarang](https://sman1-smg.sch.id/) | MIPA | Semarang `2016-2019`
 
 ## Professional Activities:
-#### 1. [Statistics Major, Department of Mathematics, Universitas Gadjah Mada](https://s1stat.fmipa.ugm.ac.id/id/) | Laboratory Assistant of Statistical Computation | Yogyakarta `August 2022 - December 2022`
-   - Taught the basics of R for application in statistics, especially in data analysis
-   - Held exams, midterm exam reports and final exam reports. Include assessed the results of the work
-   - Requirement Skill: R Programming Language (Intermediate – Advance), Data Analysis 
+#### 1. [Statistics Major, Department of Mathematics, Universitas Gadjah Mada](https://s1stat.fmipa.ugm.ac.id/id/) | Laboratory Assistant of Introduction to Data Mining | Yogyakarta `February 2023 - Present`
+   - Generally taught about basic of Python for application in statistics, especially in data mining.
+   - Made module of teaching materials for classes that are taught at weekly meetings
+   - Organized exams, practice questions, midterm exam reports and final exam reports, and evaluated the results of the work.
+   - Specifically taught about: Introduction to Python, Statistics Descriptive and Data Preprocessing, Transformation & Dimensionality Reduction, Association Rule.
+   - Requirement Skill: Statistics, Mathematics, Python Programming Language (Intermediate – Advance), Machine Learning. 
+   
+#### 2. [Statistics Major, Department of Mathematics, Universitas Gadjah Mada](https://s1stat.fmipa.ugm.ac.id/id/) | Laboratory Assistant of Statistical Computation 2 | Yogyakarta `February 2023 - Present`
+   - Generally taught about basic of Python for application in statistics, especially in data analysis.
+   - Made module of teaching materials for classes that are taught at weekly meetings
+   - Organized exams, practice questions, midterm exam reports and final exam reports, and evaluated the results of the work.
+   - Specifically taught about: Introduction to Python, Data Manipulation with Pandas, Join Data, Exploration and Visualization Data with Python, Scrapping Data from Web and API, Supervised Learning and Unsupervised Learning, Introduction to Deep Learning.
+   - Requirement Skill: Statistics, Mathematics, Python Programming Language (Intermediate – Advance), Machine Learning.
+   
+#### 3. [Statistics Major, Department of Mathematics, Universitas Gadjah Mada](https://s1stat.fmipa.ugm.ac.id/id/) | Assistant Lecturer of Introduction to Data Mining| Yogyakarta `February 2023 - Present`
+   - Graded the assignments given to students in Introduction to Data Mining courses
+   - Prepared answers and explanations of student assignment
+   - Provided a final report on the results of the assessment assigned to students.
+   - Taught, the basics of Python for application in statistics, especially in data mining and machine learning.
+   - Requirement Skill: Statistics, Mathematics, Python, Machine Learning.
 
-#### 2. [Statistics Major, Department of Mathematics, Universitas Gadjah Mada](https://s1stat.fmipa.ugm.ac.id/id/) | Assistant Lecturer of Introduction to Mathematical Statistics 1 | Yogyakarta `August 2022 - December 2022`
+#### 4. [Statistics Major, Department of Mathematics, Universitas Gadjah Mada](https://s1stat.fmipa.ugm.ac.id/id/) | Laboratory Assistant of Statistical Computation | Yogyakarta `August 2022 - January 2023`
+   - Generally taught about basic of R for application in statistics, especially in data analysis.
+   - Organized exams, practice questions, midterm exam reports and final exam reports, and evaluated the results of the work.
+   - Specifically taught about: Introduction to R, Data Manipulation with Tidyverse, Distribution Transformation of Random Variables, Monte Carlo Simulation, and Linear Programming.
+   - Requirement Skill: R Programming Language (Intermediate – Advance), Data Analysis. 
+
+#### 5. [Statistics Major, Department of Mathematics, Universitas Gadjah Mada](https://s1stat.fmipa.ugm.ac.id/id/) | Assistant Lecturer of Introduction to Mathematical Statistics 1 | Yogyakarta `August 2022 - January 2023`
    - Graded the assignments given to students in Mathematical Statistics 1 courses.
    - Provided a final report on the results of the assessment assigned to students.
    - Prepared answers and explanations of student assignment
    - Requirement Skill: Statistics, Mathematics
    
-#### 3. [Statistics Major, Department of Mathematics, Universitas Gadjah Mada](https://s1stat.fmipa.ugm.ac.id/id/) | Laboratory Assistant of Data Exploration and Visualization | Yogyakarta `February 2022 - July 2022`
+#### 6. [Statistics Major, Department of Mathematics, Universitas Gadjah Mada](https://s1stat.fmipa.ugm.ac.id/id/) | Laboratory Assistant of Data Exploration and Visualization | Yogyakarta `February 2022 - July 2022`
    - Taught, the basics of R for application in statistics, especially in data exploration and visualization
    - Made module of teaching materials for classes that are taught at weekly meetings
    - Held exams, midterm exam reports and final exam reports. Include assessed the results of the work
    - Specifically taught about: Basic introduction to the programming language R, descriptive statistics and numerical summaries, data visualization using R, data transformation (one batch and several batches), simple random sample, student's t distribution and Snedecor F, 1 sample tests (Z and T test), 2 sample tests (paired t and 2 – sample t test), One Way Analysis of Variance (One-Way ANOVA), and Simple Linear Regression
    - Requirement Skill: R Programming Language (Intermediate – Advance), Data Analysis, Exploratory Data Analysis, Data Visualization 
   
-#### 4. [Statistics Major, Department of Mathematics, Universitas Gadjah Mada](https://s1stat.fmipa.ugm.ac.id/id/) | Assistant Lecturer of Official Statistics | Yogyakarta `February 2022 - July 2022`
+#### 7. [Statistics Major, Department of Mathematics, Universitas Gadjah Mada](https://s1stat.fmipa.ugm.ac.id/id/) | Assistant Lecturer of Official Statistics | Yogyakarta `February 2022 - July 2022`
    - Graded the assignments given to students in official statistics courses.
    - Provided a final report on the results of the assessment assigned to students.
    - Prepared answers and explanations of student assignment
