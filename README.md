@@ -8,7 +8,7 @@
 
 ## About me:
 - 🔭 i'm currently looking for a new job opportunity
-- 🌱 I’m currently learning Python and R
+- 🌱 I’m currently learning Python, SQL, R, and Kotlin
 - 👯 I’m looking to collaborate as Data Analyst and Data Scientist
 - 🤔 I’m looking for suggest for Data Analyst and Data Scientist
 - 💬 Ask me about anything
