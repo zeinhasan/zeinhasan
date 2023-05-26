@@ -17,7 +17,10 @@
 ## Education:
 
 #### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Statistics | Yogyakarta `2020-Recently`
-   - Laboratory Assistant of Statistical Computation
+   - Laboratory Assistant of Introduction to Data Mining
+   - Assistant Lecturer of Introduction to Data Mining
+   - Laboratory Assistant of Statistical Computation 2
+   - Laboratory Assistant of Statistical Computation 1
    - Assistant Lecturer of Introduction to Mathematical Statistics 1 
    - Laboratory Assistant of Data Exploration and Visualization 
    - Assistant Lecturer of Official Statistics
