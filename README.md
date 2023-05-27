@@ -2,9 +2,8 @@
 ### My Stats 📈
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeinhasan&theme=midnight-purple&hide_border=false"/><br /><br />
-  
 </p>
-
+![](https://hit.yhype.me/github/profile?user_id=91140642&color=green)
 ## About me:
 - 🔭 i'm currently looking for a new job opportunity
 - 🌱 I’m currently learning Python, SQL, R, and Kotlin
