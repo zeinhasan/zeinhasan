@@ -1,7 +1,6 @@
 # Hi there, I'm Zein 👋
 ### My Stats 📈
 <p align="center">
-  <br /><img src="https://github-readme-stats.vercel.app/api?username=zeinhasan&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeinhasan&theme=midnight-purple&hide_border=false"/><br /><br />
   
 </p>
