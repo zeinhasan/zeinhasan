@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=zeinhasan&color=green)
 
 ## About me:
-- 🔭 i'm currently looking for a new job opportunity
+- 🔭 i'm a data analyst intern at PT Telekomunikasi Indonesia Tbk
 - 🌱 I’m currently learning Python, SQL, R, and Kotlin
 - 👯 I’m looking to collaborate as Data Analyst and Data Scientist
 - 🤔 I’m looking for suggest for Data Analyst and Data Scientist
