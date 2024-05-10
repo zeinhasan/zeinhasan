@@ -3,6 +3,7 @@
 ### My Stats 📈
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeinhasan&theme=midnight-purple&hide_border=false"/><br /><br />
+  <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000992.e0074105cb11448cb2ce5f98c42e19f5.0810" alt="https://github.com/rayriffy/apple-music-github-profile"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=zeinhasan&color=green)
