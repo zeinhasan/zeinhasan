@@ -5,7 +5,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeinhasan&theme=midnight-purple&hide_border=false"/><br /><br />
 </p>
 
-
+![](https://komarev.com/ghpvc/?username=zeinhasan&color=green)
 ## About me:
 - 🔭 i'm a Data Scientist at PT Sreeya Sewu Tbk
 - 🌱 I’m currently learning Python, SQL, R, and Kotlin
