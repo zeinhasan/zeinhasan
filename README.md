@@ -5,10 +5,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeinhasan&theme=midnight-purple&hide_border=false"/><br /><br />
 </p>
 
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeinhasan&radius=16&theme=react&area=true&order=5" height="auto" alt="by zeinhasan"/><br /><br />
+</p>
+
 ![](https://komarev.com/ghpvc/?username=zeinhasan&color=green)
 ## About me:
 - 🔭 i'm a Data Scientist at PT Sreeya Sewu Tbk
-- 🌱 I’m currently learning Python, SQL, R, and Kotlin
+- 🌱 I’m currently learning Python, SQL, R, Rust, and Kotlin
 - 👯 I’m looking to collaborate as Data Analyst and Data Scientist
 - 🤔 I’m looking for suggest for Data Analyst and Data Scientist
 - 💬 Ask me about anything
