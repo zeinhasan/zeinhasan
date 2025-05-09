@@ -9,7 +9,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeinhasan&radius=16&theme=react&area=true&order=5" height="auto" alt="by zeinhasan"/><br /><br />
 </p>
 
-![Snake animation](https://github.com/zeinhasan/zeinhasan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/{zeinhasan}/{zeinhasan}/output/github-contribution-grid-snake-dark.svg)
 
 ![](https://komarev.com/ghpvc/?username=zeinhasan&color=green)
 ## About me:
