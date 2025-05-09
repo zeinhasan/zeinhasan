@@ -12,6 +12,12 @@
 ![Snake animation](github-contribution-grid-snake-dark.svg)
 
 ![](https://komarev.com/ghpvc/?username=zeinhasan&color=green)
+
+## Songs
+<p align="center">
+  <img src="https://github-profile-apple-music.web.app/api/v1/users/w0qGmBrJuzegM7UHSo8l/recent/played/tracks?template=template_1_1" alt="Apple Music Recent Tracks"/>
+</p>
+
 ## About me:
 - 🔭 i'm a Data Scientist at PT Sreeya Sewu Tbk
 - 🌱 I’m currently learning Python, SQL, R, Rust, and Kotlin
