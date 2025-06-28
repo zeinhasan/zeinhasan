@@ -2,7 +2,7 @@
 
 ### My Stats 📈
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeinhasan&theme=midnight-purple&hide_border=false"/><br /><br />
+  <img src="https://github-readme-streak-stats-a9b93zeo5-zeinhasans-projects.vercel.app?user=zeinhasan&theme=microsoft-dark"/><br /><br />
 </p>
 
 <p align="center"> 
