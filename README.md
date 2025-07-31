@@ -29,7 +29,7 @@
 ---
 
 ## About Me
-- 🔭 I'm a Data Scientist at PT Sreeya Sewu Tbk  
+- 🔭 I'm a Machine Learning Engineer at Telkomsel Digital Ecosystem
 - 🌱 Currently learning: Python, SQL, R, Rust, Kotlin  
 - 👯 Looking to collaborate on Data Analyst & Data Scientist projects  
 - 🤔 Open to suggestions and guidance in data roles  
