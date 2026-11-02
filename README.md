@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://myvibe.ahmadzein.my.id/ai-usage-daily.svg" alt="Daily AI cost and token usage chart"/>
+  <img src="https://myvibe.ahmadzein.my.id/ai-usage-daily.svg?v=30d" alt="Daily AI cost and token usage chart"/>
 </p>
 
 <p align="center">
