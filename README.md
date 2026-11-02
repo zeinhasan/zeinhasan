@@ -16,6 +16,10 @@
 </p>
 
 <p align="center">
+  <img src="https://myvibe.ahmadzein.my.id/ai-usage.svg" alt="AI usage in the last 30 days: requests, tokens, cache hit rate and top models"/>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=zeinhasan&color=green" alt="Profile views"/>
 </p>
 
