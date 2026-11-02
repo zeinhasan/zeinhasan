@@ -3,7 +3,7 @@
 ### My Stats 📈
 <p align="center"> 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=zeinhasan&theme=microsoft-dark" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=zeinhasan&theme=microsoft-dark&v=20261102" alt="GitHub Streak"/>
   </a>
 </p>
 
