@@ -8,7 +8,7 @@
 </p>
 
 <p align="center"> 
-  <img src="http://43.173.53.182:5100/graph?username=zeinhasan&radius=16&theme=react&area=true&order=5" alt="GitHub Activity Graph"/>
+  <img src="https://myvibe.ahmadzein.my.id/activity-graph/graph?username=zeinhasan&radius=16&theme=react&area=true&order=5" alt="GitHub Activity Graph"/>
 </p>
 
 <p align="center">
