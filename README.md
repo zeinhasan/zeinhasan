@@ -21,12 +21,6 @@
 
 ---
 
-## 🎵 Songs
-<p align="center">
-  <img src="https://github-profile-apple-music.web.app/api/v1/users/w0qGmBrJuzegM7UHSo8l/recent/played/tracks?template=template_1_1" alt="Apple Music Recent Tracks"/>
-</p>
-
----
 
 ## About Me
 - 🔭 I'm a Machine Learning Engineer at Telkomsel Digital Ecosystem
