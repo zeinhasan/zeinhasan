@@ -8,7 +8,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeinhasan&radius=16&theme=react&area=true&order=5" alt="GitHub Activity Graph"/>
+  <img src="http://43.173.53.182:5100/graph?username=zeinhasan&radius=16&theme=react&area=true&order=5" alt="GitHub Activity Graph"/>
 </p>
 
 <p align="center">
