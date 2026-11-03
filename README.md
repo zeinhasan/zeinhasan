@@ -23,6 +23,13 @@
   <img src="https://myvibe.ahmadzein.my.id/ai-usage-daily.svg?v=30d" alt="Daily AI cost and token usage chart"/>
 </p>
 
+### Now Playing
+<p align="center">
+  <a href="https://zeinhasan.github.io/zeinhasan/now-playing.html">
+    <img src="https://raw.githubusercontent.com/zeinhasan/zeinhasan/output/now-playing.svg" alt="Now playing, changes every 30 minutes. Opens the track on Spotify."/>
+  </a>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zeinhasan&color=green" alt="Profile views"/>
 </p>
